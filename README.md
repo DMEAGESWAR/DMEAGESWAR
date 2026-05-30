@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meageswar D</h1>
-<h3 align="center">🛡️ Building NodeSec | Android · Firebase · Web Dev | GSSoC'26 Contributor | AI × cybersecurity × Social Impact</h3>
+<h3 align="center"> Building NodeSec | Android · Firebase · Web Dev | GSSoC'26 Contributor | AI × cybersecurity × Social Impact</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Android+%26+Firebase+Developer;Full+Stack+Web+Developer;Cybersecurity+Enthusiast;GSSoC+'26+Contributor;Building+for+Social+Impact)](https://git.io/typing-svg)
 
@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 2nd Year AIDS Student @ Saveetha Engineering College, Tamil Nadu
+- 🎓 3rd Year AIDS Student @ Saveetha Engineering College, Tamil Nadu
 - 🛡️ Building **NodeSec** — an attack surface intelligence platform for non-expert teams
 - 🌱 Currently contributing to **GSSoC'26** open source projects
 - 📱 Passionate about **Android + Firebase** real-time apps
