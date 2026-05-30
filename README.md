@@ -73,7 +73,7 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/meageswar/">
+  <a href="https://linkedin.com/in/meageswar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dsmeageswar@gmail.com">
