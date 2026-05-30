@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meageswar D</h1>
 <h3 align="center">🛡️ Building NodeSec | Android · Firebase · Web Dev | GSSoC'26 Contributor | AI × cybersecurity × Social Impact</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Android+%26+Firebase+Developer;Full+Stack+Web+Developer;Cybersecurity+Enthusiast;GSSoC+'26+Open+Source+Contributor;Building+Apps+for+Social+Impact+🌱" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Android+%26+Firebase+Developer;Full+Stack+Web+Developer;Cybersecurity+Enthusiast;GSSoC+'26+Contributor;Building+for+Social+Impact)](https://git.io/typing-svg)
 
 ---
 
@@ -56,12 +54,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DMEAGESWAR&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMEAGESWAR&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DMEAGESWAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMEAGESWAR&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DMEAGESWAR&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=DMEAGESWAR&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
